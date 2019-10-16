@@ -1,7 +1,9 @@
 # cpsc350assign3
 
 #Debbie Lu
+
 #Student ID: 2292435
+
 #CPSC350 Assignment 3
 #
 #I referenced cplusplus.com and tutorialspoint.com for some guidance on fixing some of the errors I had with the
